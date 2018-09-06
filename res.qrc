@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+	<file>res/wave.svg</file>	
+	<file>res/fire.svg</file>        
+	<file>res/devil.svg</file>
+	<file>res/fish.svg</file>
+	<file>res/monster.svg</file>
+	<file>res/bullet_left.png</file>
+	<file>res/bullet_right.svg</file>
+	<file>res/bullet_front.svg</file>
+	<file>res/jet.svg</file>
+	<file>res/dragon.svg</file>
+	<file>res/background.jpg</file>
+    </qresource>
+</RCC>
